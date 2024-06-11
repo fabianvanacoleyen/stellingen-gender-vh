@@ -1,0 +1,39 @@
+*{
+    
+    background-color: blue;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 100;
+
+    
+
+body{
+    background-color: blue;
+    background-color: blue;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 100;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.txt{
+    color:rgba(245, 250, 181, 0.974);
+    margin: 0; /* Verwijdert de standaard marge van de p-tag */
+
+}
+
+.start-button{
+    color: rgb(168, 241, 20);
+}
+
+.stelling{
+    display: flex;
+    align-items: center; /* Zorgt ervoor dat items verticaal gecentreerd worden */
+}
+
+form{
+    text-align: left;
+    margin-left: 120px;
+    margin-right: 150px;
+}
+

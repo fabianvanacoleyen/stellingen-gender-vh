@@ -24,6 +24,8 @@ body{
 
 .start-button{
     color: rgb(168, 241, 20);
+    border: none;
+    font-size: larger;
 }
 
 .stelling{
@@ -37,3 +39,20 @@ form{
     margin-right: 150px;
 }
 
+.submit{
+    color: antiquewhite;
+    background-color: rgb(61, 159, 229);
+    border-radius: 30px;
+    border: 0;
+    box-shadow: none;
+    outline: none;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+}
+
+.lijst{
+    text-align: left;
+    margin-left: 30px;
+}
